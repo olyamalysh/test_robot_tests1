@@ -2120,3 +2120,33 @@ users:
         browser:  chrome
         position: [0, 0]
         size:     [1366, 800]
+    setam_Owner:
+        broker:   setam
+        homepage: "https://npl.setam.net.ua"
+        login:    primatization@aditus.info
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 3000]
+    setam_Provider:
+        broker:   setam
+        homepage: "https://npl.setam.net.ua"
+        login:    uaceseller1@mail.ru
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 3000]
+    setam_Provider1:
+        broker:   setam
+        homepage: "https://npl.setam.net.ua"
+        login:    uaceseller2@mail.ru
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 3000]
+    setam_Viewer:
+        broker:   setam
+        homepage: "https://npl.setam.net.ua"
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 3000]

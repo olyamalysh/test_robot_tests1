@@ -1104,3 +1104,23 @@ skyline:
             tender:  [0, 25]
             auction: [25, 30]
     timeout_on_wait: 10
+setam:
+    intervals:
+        default:
+            enquiry: [0, 17]
+            tender:  [0, 19]
+        dgfOtherAssets:
+            accelerator: 1440
+            auction:  [100, 105]
+        lots:
+            accelerator: 720
+        auctions:
+            accelerator: 1440
+            auction:  [100, 100]
+    keywords_file: setam
+    roles:
+        tender_owner:   setam_Owner
+        provider:   setam_Provider
+        provider1:   setam_Provider1
+        viewer:   setam_Viewer
+    timeout_on_wait: 120
