@@ -1344,8 +1344,8 @@ setam:
             auction:  [25, 30]
     keywords_file: setam
     roles:
-        tender_owner:   setam_Owner_auction
-        provider:       setam_Provider_auction
-        provider1:      setam_Provider1_auction
-        viewer:         setam_Viewer_auction
+        tender_owner:   setam_Owner
+        provider:       setam_Provider
+        provider1:      setam_Provider1
+        viewer:         setam_Viewer
     timeout_on_wait: 120
