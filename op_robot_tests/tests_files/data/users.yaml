@@ -2336,7 +2336,7 @@ users:
     setam_Owner:
         broker:   setam
         homepage: "https://npl.setam.net.ua"
-        login:    testprozorroyowner@gmail.com
+        login:    testprozorroy.owner@gmail.com
         password: andriy85
         browser:  Chrome
         position: [0, 0]
