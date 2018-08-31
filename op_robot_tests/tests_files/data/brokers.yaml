@@ -1113,7 +1113,7 @@ setam:
             accelerator: 1440
             auction:  [100, 105]
         lots:
-            accelerator: 50
+            accelerator: 100
         auctions:
             accelerator: 1440
             auction:  [100, 100]
