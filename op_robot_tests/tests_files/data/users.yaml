@@ -2340,7 +2340,7 @@ users:
         password: andriy85
         browser:  Chrome
         position: [0, 0]
-        size:     [1366, 3000]
+        size:     [1366, 800]
     setam_Provider:
         broker:   setam
         homepage: "https://npl.setam.net.ua"
@@ -2348,7 +2348,7 @@ users:
         password: andriy85
         browser:  Chrome
         position: [0, 0]
-        size:     [1366, 3000]
+        size:     [1366, 800]
     setam_Provider1:
         broker:   setam
         homepage: "https://npl.setam.net.ua"
@@ -2356,10 +2356,10 @@ users:
         password: andriy85
         browser:  Chrome
         position: [0, 0]
-        size:     [1366, 3000]
+        size:     [1366, 800]
     setam_Viewer:
         broker:   setam
         homepage: "https://npl.setam.net.ua"
         browser:  Chrome
         position: [0, 0]
-        size:     [1366, 3000]
+        size:     [1366, 800]
