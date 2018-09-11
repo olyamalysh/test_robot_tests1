@@ -1337,7 +1337,7 @@ setam:
            accelerator: 100
            auction:  [55, 65]
         dgfOtherAssets:
-            accelerator: 144
+            accelerator: 100
             auction:  [55, 65]
         dgfInsider:
             accelerator: 360
