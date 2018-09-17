@@ -2150,3 +2150,33 @@ users:
         browser:  Chrome
         position: [0, 0]
         size:     [1366, 3000]
+    eauction_Owner:
+        broker:   eauction
+        homepage: "http://eauction-dev.byustudio.in.ua"
+        login:    testprozorroy.owner@gmail.com
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    eauction_Provider:
+        broker:   eauction
+        homepage: "http://eauction-dev.byustudio.in.ua"
+        login:    uaceseller1@mail.ru
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    eauction_Provider1:
+        broker:   eauction
+        homepage: "http://eauction-dev.byustudio.in.ua"
+        login:    uaceseller2@mail.ru
+        password: andriy85
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    eauction_Viewer:
+        broker:   eauction
+        homepage: "http://eauction-dev.byustudio.in.ua"
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
